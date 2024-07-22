@@ -1,15 +1,35 @@
-# HTML to PDF Converter
+# Pydf By MrTusarRX
 
-This repository contains a shell script to install the necessary packages and run a Python script to convert HTML files to PDF in a Termux environment.
+`pydf` is a Python script that converts HTML files to PDF format.
 
-## Installation and Usage
+## Prerequisites
 
-Follow these steps to set up the environment and run the script:
+Ensure you have the following installed:
+- Python 3.x
+- Required Python libraries (listed in `requirements.txt` if available)
 
-### 1. Clone the Repository
+## Installation
 
-First, clone this repository to your local machine and navigate into the directory:
+1. Clone the repository:
 
-```sh
-git clone https://github.com/yourusername/your-repo.git
-cd 
+    ```bash
+    git clone https://github.com/MrTusarRX/Pydf.git
+    cd Pydf
+    ```
+
+2. Install the necessary Python dependencies:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+## Usage
+
+To run the script, use the `pydf_run.sh` shell script:
+```bash
+chmod +x pydf_run.sh
+```
+
+```bash
+./pydf_run.sh
+```
