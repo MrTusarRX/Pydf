@@ -31,5 +31,5 @@ chmod +x pydf_run.sh
 ```
 
 ```bash
-./pydf_run.sh
+bash pydf_run.sh
 ```
