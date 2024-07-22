@@ -6,7 +6,6 @@
 
 Ensure you have the following installed:
 - Python 3.x
-- Required Python libraries (listed in `requirements.txt` if available)
 
 ## Installation
 
@@ -18,10 +17,6 @@ Ensure you have the following installed:
     ```
 
 2. Install the necessary Python dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 
